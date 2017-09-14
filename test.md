@@ -71,3 +71,37 @@ class Poketmon {
 }
 
 */
+
+
+
+
+
+
+
+```swift
+class Poketmon {
+var name:String = ""
+var level:Int = 0
+var sort:String = ""
+var color:String = ""
+
+init(name:String, level:Int, sort:String, color:String) {
+self.name = name
+self.level = level
+self.sort = sort
+self.color = color
+
+}
+func monName(name:String) {
+
+
+
+
+}
+
+
+
+
+}
+
+```
